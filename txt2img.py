@@ -16,7 +16,7 @@ from utils.segmask import get_seg_mask
 from utils.GenerateEntity import get_Entity_with_mask
 from utils.EntitywithCLIP import save_mask
 
-auth_token = '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'
+auth_token = 
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
